@@ -7,7 +7,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from datetime import timedelta
 
 # ===== НАСТРОЙКИ =====
-TOKEN = os.getenv("8225164064:AAGCZ87ubqJHhRaYPLJJQXIerG7B9_gHacI")
+TOKEN = os.getenv("8926286755:AAHoklKvcFR3hU65aP5-__8r52-xga9SfUI")
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
